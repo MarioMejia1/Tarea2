@@ -12,7 +12,7 @@
 .calculadora {
     width: 400px;
     height: 600px;
-    background-color: #615756;
+    background-color: #343533;
     display: grid;
     grid-template-columns: repeat(4,80px);
     grid-template-rows: 130px repeat(6,80px);
@@ -24,7 +24,7 @@
 
 .calculadora button {
     font-size: 1.5rem;
-    background-color: #539987;
+    background-color: #b197c9;
     border-radius: 50%;
     border: 2px #333333 solid;
     margin:2px;
